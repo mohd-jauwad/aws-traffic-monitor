@@ -25,6 +25,3 @@ this [Refer](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linu
 
 The monitor now only support the **lightsail**.
 
-# Author
-
-Made by starx and under **GNU GPLv3** LICENCE.
